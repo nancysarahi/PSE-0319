@@ -6,7 +6,7 @@ merchant is panicking because they have spent thousands on marketing to promote 
 date. The merchant's EAM has forwarded you an email thread that includes the BigCommerce
 executive team, which has guaranteed we will track down the issue in time for launch.
 
-> **Instructions**
+**Instructions**
 - Download the theme and apply it to your test store
 - Set up a repository on GitHub with the theme files
 - Correct the issue in the theme, then push the correction to your GitHub repository

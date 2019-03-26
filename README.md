@@ -1,3 +1,17 @@
+# PSE Candidate Project
+**Customers are Unable to Complete Orders After Latest Theme Update**
+> An enterprise merchant is 1 day from launch, but they are unable to complete orders after the
+latest update to their theme. Their developer is not responding to their messages, and the
+merchant is panicking because they have spent thousands on marketing to promote their launch
+date. The merchant's EAM has forwarded you an email thread that includes the BigCommerce
+executive team, which has guaranteed we will track down the issue in time for launch.
+
+> **Instructions**
+- Download the theme and apply it to your test store
+- Set up a repository on GitHub with the theme files
+- Correct the issue in the theme, then push the correction to your GitHub repository
+- Provide a link to your GitHub repo with the fixed theme
+
 # Cornerstone
 [![Build Status](https://travis-ci.org/bigcommerce/cornerstone.svg?branch=master)](https://travis-ci.org/bigcommerce/cornerstone)
 
